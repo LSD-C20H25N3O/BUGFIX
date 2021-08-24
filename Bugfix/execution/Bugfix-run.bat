@@ -1,1 +1,0 @@
-java -jar Bugfix-1.0-SNAPSHOT.jar
